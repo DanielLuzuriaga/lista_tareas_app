@@ -1,0 +1,16 @@
+# Carpetas de PyInstaller
+build/
+dist/
+
+# Archivos compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
